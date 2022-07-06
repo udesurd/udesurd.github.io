@@ -1,0 +1,10 @@
+.sidebar{
+    border-right: 1px solid #A8BCC7;
+    flex: auto;
+    max-width: 225px;
+    padding-top: 25px;
+    padding-right: 25px;
+
+
+
+}

@@ -1,0 +1,50 @@
+.wrapper{
+    border-bottom: 1px solid #A8BCC7;
+}
+.profile_wrapper{
+    display: flex;
+    align-items: center;
+    padding-bottom: 50px;
+    max-width: 970px;
+    margin: 0 auto;
+    padding-top: 50px;
+    max-height: 250px;
+
+}
+.name_wrapper{
+    padding-left: 40px;
+}
+.status_wrapper{
+    padding-left: 40px;
+}
+.name {
+    margin: 0;
+
+}
+.profile_img{
+    max-height: 150px;
+    max-width: 150px;
+    border-radius: 50%;
+}
+.button{
+    border: none;
+    background-color: white;
+
+    width: 160px;
+    height: 30px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.button:hover{
+    background: rgba(178, 202, 210, 0.5);
+    transition: 50ms ease-out;
+    color: #61B4CF;
+    border-radius: 20px;
+    width: fit-content;
+    width: 160px;
+    height: 30px;
+    cursor: pointer;
+}
+.status{
+    padding-left: 50px;
+}

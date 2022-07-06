@@ -1,0 +1,5 @@
+.vidgets{
+    border-left: 1px solid #A8BCC7;
+    max-width: 250px;
+    flex: auto;
+}

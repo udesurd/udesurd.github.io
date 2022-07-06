@@ -1,0 +1,7 @@
+.posts_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 970px;
+    margin: 0 auto;
+
+}
